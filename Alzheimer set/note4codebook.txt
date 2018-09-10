@@ -1,0 +1,7 @@
+- chlstrl
+	Total cholesterol level:
+		1. 200 mg/dl is optimal
+		2. 200+ mg/dl below has heart danger (high)
+		3. 240+ mg/dl very high
+	in the data set, this is in the range of 200+ very high (higher == more risk to heart problem)
+- 
