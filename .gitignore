@@ -1,0 +1,11 @@
+# ignore Mac things
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ignore dataset, btw you should leave your dataset.xlsx here.
+./Alzheimer\ set/dataset/.
