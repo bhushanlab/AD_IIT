@@ -25,9 +25,8 @@ AD_IIT/
 
 6 directories, 14 files
 ```
-===
+
 ## Rules:
-===
 
 1. One branch one study - or 1 feature ```remotes/origin/YourFeature```
 2. You should always branch out from the develop branch ```remotes/origin/develop```
